@@ -99,7 +99,7 @@ export function FeatureCards() {
                 
                 <motion.div className="flex flex-col sm:flex-row gap-4" variants={item}>
                   <a 
-                    href="#" 
+                    href="https://apps.apple.com/br/app/peano-corp/id6753818404" 
                     className="inline-flex items-center justify-center gap-2 bg-black text-white px-6 py-3 rounded-xl hover:bg-gray-800 transition-colors"
                   >
                     <svg className="w-6 h-6" viewBox="0 0 24 24" fill="currentColor">
@@ -112,7 +112,7 @@ export function FeatureCards() {
                   </a>
                   
                   <a 
-                    href="#" 
+                    href="https://play.google.com/store/apps/details?id=com.bellbank.beflex.android&pcampaignid=web_share" 
                     className="inline-flex items-center justify-center gap-2 bg-black text-white px-6 py-3 rounded-xl hover:bg-gray-800 transition-colors"
                   >
                     <svg className="w-6 h-6" viewBox="0 0 24 24" fill="currentColor">
