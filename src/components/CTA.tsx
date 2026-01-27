@@ -22,15 +22,10 @@ export function CTA() {
         </p>
 
         <div className="flex flex-col sm:flex-row gap-4 justify-center">
-          <Button asChild size="lg" className="bg-[#2FB8F7] hover:bg-[#2FB8F7]/90 text-white text-lg px-8">
-            <a href="#/contato" onClick={() => window.scrollTo({ top: 0, behavior: "smooth" })}>
+          <Button asChild size="lg" className="bg-[#2FB8F7] hover:bg-[#2FB8F7]/90 text-white text-lg px-8 mx-auto">
+            <a href="https://corp.peano.com.br/onboarding">
               Peça seu cartão agora
               <ArrowRight className="ml-2 h-5 w-5" />
-            </a>
-          </Button>
-          <Button asChild size="lg" variant="outline" className="bg-white/10 border-white/20 hover:bg-white/20 text-white text-lg px-8">
-            <a href="#/contato" onClick={() => window.scrollTo({ top: 0, behavior: "smooth" })}>
-              Agendar demonstração
             </a>
           </Button>
         </div>

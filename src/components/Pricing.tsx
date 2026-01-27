@@ -34,7 +34,7 @@ const plans = [
 
 export function Pricing() {
   return (
-    <section className="py-20 lg:py-32 bg-gray-50">
+    <section id="planos" className="py-20 lg:py-32 bg-gray-50">
       <div className="max-w-7xl mx-auto px-6">
         <div className="text-center mb-16">
           <h2 className="text-4xl lg:text-5xl mb-4 text-[#44216a]">
@@ -85,7 +85,7 @@ export function Pricing() {
                 }`}
                 size="lg"
               >
-                <a href="#/contato">Começar agora</a>
+                <a href="https://corp.peano.com.br/onboarding">Começar agora</a>
               </Button>
 
               <ul className="space-y-4">

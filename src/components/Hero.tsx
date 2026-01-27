@@ -95,7 +95,7 @@ CreditCard
                 size="lg"
                 className="bg-[#2FB8F7] hover:bg-[#2FB8F7]/90 text-white"
               >
-                <a href="#/contato">
+                <a href="https://corp.peano.com.br/onboarding">
                   Começar agora
                   <ArrowRight className="ml-2 h-5 w-5" />
                 </a>

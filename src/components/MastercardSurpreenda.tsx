@@ -41,7 +41,7 @@ export function MastercardSurpreenda() {
   } as const;
 
   return (
-    <section className="py-20 lg:py-32 bg-white">
+    <section id="mastercard-surpreenda" className="py-20 lg:py-32 bg-white">
       <div className="max-w-7xl mx-auto px-6">
         <div className="grid lg:grid-cols-2 gap-12 items-center">
           {/* Left content */}

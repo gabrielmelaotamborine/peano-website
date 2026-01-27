@@ -20,7 +20,6 @@ const cards = [
     image: blackCardImg,
     features: [
       "Cartão premium para executivos com benefícios exclusivos e limites elevados.",
-      "Cashback de até 2% em todas as compras corporativas.",
       "Acesso exclusivo a salas VIP em aeroportos.",
       "Seguro viagem internacional incluso.",
       "Concierge 24/7 para reservas e serviços."
